@@ -12,7 +12,7 @@ spec:
 blueprint:
   form_title: ""
   form_description: ""
-  form_success_page: ""
+  form_success_page: "https://formspree.io/f/meoklrnw"
   form_submission_email: ""
   form_button_text: ""
 
@@ -20,7 +20,7 @@ blueprint:
 preview:
   form_title: Contacto
   form_description: Vonge comes with a built-in contact form.
-  form_success_page: /
+  form_success_page: https://formspree.io/f/meoklrnw
   form_submission_email: site@example.com
   form_button_text: Send now
 

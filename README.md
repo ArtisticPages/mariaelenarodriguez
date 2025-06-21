@@ -1,53 +1,20 @@
-# Vonge
+# Blog de María Elena Rodríguez
 
-Vonge is a Personal portfolio/blog site template for Jekyll. Browse through a [live demo](https://jazzed-kale.cloudvent.net/).
-Increase the web presence of your brand with this configurable theme.
+Este es el sitio web personal de María Elena Rodríguez, artista plástico.  
+Aquí se publican artículos, reflexiones y registros visuales de sus obras.
 
-![Vonge template screenshot](_screenshot.png)
+El blog está construido con [Jekyll](https://jekyllrb.com/) y alojado en [GitHub Pages](https://pages.github.com/).
 
-Vonge was made by [CloudCannon](http://cloudcannon.com/), the JAMStack Cloud CMS.
-The component library is built and maintained for use with [Bookshop](https://github.com/cloudcannon/bookshop/)
+## 📸 Contenido
 
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Community](https://cloudcannon.com/community/).
+Todas las imágenes, textos y obras publicadas en este blog son propiedad de su autor.
 
-[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/vonge-jekyll-bookshop-template)
+> © María Elena Rodríguez, 2025. Todos los derechos reservados.  
+> No se permite la copia, modificación ni el uso comercial del contenido sin autorización previa.
 
-## Features
+Más información en el archivo [`LICENSE-CONTENT.md`](./LICENSE-CONTENT.md).
 
-* Component library for website building
-* Fully configurable Website
-* Pre-built pages
-* Pre-styled components
-* Blog
-* Category pages
-* Testimonials
-* Portfolio
-* Live editing with [CloudCannon](http://cloudcannon.com/)
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* Search engine optimisation
+## 🛠️ Código
 
-## Develop
-
-Vonge was built with [Jekyll](http://jekyllrb.com/) version 4.2.1, but should support newer versions as well.
-
-Install the dependencies for Bookshop:
-
-~~~bash
-$ npm install
-~~~
-
-Install the Jekyll dependencies with [Bundler](http://bundler.io/):
-
-~~~bash
-$ npm run jekyll:install
-~~~
-
-Run the website:
-
-~~~bash
-$ npm start
-~~~
-
-
-> [!IMPORTANT]
-> When running locally, the pagination will not work. Deploy to CloudCannon to see successful pagination. 
+El código fuente de este sitio (estructura Jekyll, temas, configuración) está licenciado bajo la [MIT License](./LICENSE).  
+Esto significa que podés reutilar el código base, pero **no el contenido artístico**.
