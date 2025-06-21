@@ -1,0 +1,15 @@
+footer_menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Projectos'
+      url: '/projects/'
+#    - title: 'Elements'
+#      url: '/elements/'
+    - title: 'Acerca de mí'
+      url: '/about/'
+    - title: 'Blog'
+      url: '/blog/'
+
+copyright_text_html: >-
+  <p> 2025 &copy; María Elena Rodríguez Petrocelli</p>
